@@ -17,10 +17,10 @@ Level 5: Read some more sections of it\
 Level 6: Implement completely or partially in a project\
 Level 7: Read thoroughly and understood ccompletely
 
-| Research Paper                                                                       | Progress (%) |
-|--------------------------------------------------------------------------------------|--------------|
-|[Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf)      |           10%|
-|[Bridging the Gaps Between Residual Learning,Recurrent Neural Networks and Visual Cortex](https://arxiv.org/pdf/1604.03640.pdf)      |            0%|
+| Research Paper                                                                       |Note| Progress (%) |
+|--------------------------------------------------------------------------------------|----|--------------|
+|[Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf)      |here|           10%|
+|[Bridging the Gaps Between Residual Learning,Recurrent Neural Networks and Visual Cortex](https://arxiv.org/pdf/1604.03640.pdf)      |here|            0%|
 
 ## Acknowledgements
 1. Prof. Surekha Bhanot for making me realise the importance of reading.
