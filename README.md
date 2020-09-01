@@ -2,11 +2,11 @@
 List of all research papers I have read.
 This place is to remind me of my progress in the DL realm.
 
-Keep asking yourself:\
-1. What author is trying to accomplish\
-2. What you can use of it\
-3. What are key elements\
-4. What other references you want to follow\
+Keep asking yourself:
+1. What author is trying to accomplish?
+2. What you can use of it?
+3. What are key elements?
+4. What other references you want to follow?
 
 Depending on importance go to higher level:\
 Level 1: Read title, abstract and figures\
