@@ -19,7 +19,7 @@ Level 7: Read thoroughly and understood ccompletely
 
 | Research Paper                                                                       |Note| Progress (%) |
 |--------------------------------------------------------------------------------------|----|--------------|
-|[Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf)      |[Wiki](https://github.com/tnzl/Research-Papers/wiki/Densely-Connected-Convolutional-Networks)|           10%|
+|[Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf)      |[Wiki](https://github.com/tnzl/Research-Papers/wiki/Densely-Connected-Convolutional-Networks)|           75%|
 |[Bridging the Gaps Between Residual Learning,Recurrent Neural Networks and Visual Cortex](https://arxiv.org/pdf/1604.03640.pdf)      |here|            0%|
 
 ## Acknowledgements
