@@ -19,7 +19,11 @@ Level 7: Read thoroughly and understood ccompletely
 
 | Research Paper                                                                       |Note| Progress (%) |
 |--------------------------------------------------------------------------------------|----|--------------|
+|[Very Deep convolutional Networks for Large Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)|Wiki|75%|
+|[Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)|Wiki|80%|
+|[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167)|Wiki|75%|
 |[Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf)      |[Wiki](https://github.com/tnzl/Research-Papers/wiki/Densely-Connected-Convolutional-Networks)|           75%|
+|[Libra R-CNN: Towards Balanced Learning for Object Detection](https://arxiv.org/pdf/1904.02701)|Wiki|10%|
 |[Bridging the Gaps Between Residual Learning,Recurrent Neural Networks and Visual Cortex](https://arxiv.org/pdf/1604.03640.pdf)      |here|            0%|
 
 ## Acknowledgements
