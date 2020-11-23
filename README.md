@@ -19,6 +19,7 @@ Level 7: Read thoroughly and understood ccompletely
 
 | Research Paper                                                                       |Note| Progress (%) |
 |--------------------------------------------------------------------------------------|----|--------------|
+|[Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497)|Wiki|80%|
 |[Very Deep convolutional Networks for Large Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)|Wiki|75%|
 |[Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)|Wiki|80%|
 |[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167)|Wiki|75%|
