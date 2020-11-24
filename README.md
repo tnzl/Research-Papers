@@ -15,7 +15,7 @@ Level 3: Read Medium or other articles or blogs\
 Level 4: Read some sections of it\
 Level 5: Read some more sections of it\
 Level 6: Implement completely or partially in a project\
-Level 7: Read thoroughly and understood ccompletely
+Level 7: Read through and between every line.
 
 | Research Paper                                                                       |Note| Progress (%) |
 |--------------------------------------------------------------------------------------|----|--------------|
