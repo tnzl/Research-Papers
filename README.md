@@ -22,6 +22,7 @@ Level 7: Read through and between every line.
 |[Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497)|Wiki|80%|
 |[Very Deep convolutional Networks for Large Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)|Wiki|75%|
 |[Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)|Wiki|80%|
+|[Convolutional Sequence to Sequence Learning](https://arxiv.org/pdf/1705.03122.pdf)|Wiki|45%|
 |[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167)|Wiki|75%|
 |[Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf)      |[Wiki](https://github.com/tnzl/Research-Papers/wiki/Densely-Connected-Convolutional-Networks)|           75%|
 |[Libra R-CNN: Towards Balanced Learning for Object Detection](https://arxiv.org/pdf/1904.02701)|Wiki|10%|
